@@ -11,7 +11,7 @@ public class Employee {
 
     public Employee(int empId, String empName) {
         this.empId = empId;
-        this.empName = empName;
+        this.empName = employeeName;
         count++;
     }
 
