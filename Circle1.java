@@ -8,7 +8,7 @@ public class Circle1 {
 
   void setRadius() {
     Scanner sc = new Scanner(System.in);
-    System.out.println("Enter  radius");
+    System.out.println("Enter  Raaadius");
     r = sc.nextInt();
   }
 
